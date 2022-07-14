@@ -5,8 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bbc1b67-4f96-4be7-b618-bf084904a2cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modude1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/.idea/kanban.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai10/vonglapfor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai10/vonglapfor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.2exercise.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.3exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/.idea/bai8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/ball.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/ball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/caculaytor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/caculaytor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/cannang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/cannang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien05.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/dieukien06.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/feet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/feet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/nhietdo01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/nobita.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/nobita.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/thangnam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai9/thangnam.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/onmouseover.onmouseout.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/onmouseover.onmouseout.html" afterDir="false" />
     </list>
@@ -35,20 +101,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Documents/codegym/modude1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/apple/Documents/codegym/modude1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +126,7 @@
       <updated>1657096425748</updated>
       <workItem from="1657096426839" duration="25000" />
       <workItem from="1657674592885" duration="25689000" />
-      <workItem from="1657762023568" duration="362000" />
+      <workItem from="1657762023568" duration="1039000" />
     </task>
     <servers />
   </component>
