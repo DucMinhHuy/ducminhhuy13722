@@ -5,30 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bbc1b67-4f96-4be7-b618-bf084904a2cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bai10/huy01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapdowhile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapdowhile001.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapfor002.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapfor003.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapfor01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapfor01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapfor02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapwhile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapwhile001.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapwhile01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/vonglapwhilechuyen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/bai11005.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/bai1101.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/bai1102.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/bai1103.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/bai1104.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/bai1107.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/baitap11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/bangcuutruong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/hinhchunhatsao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/songuyento.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.2exercise.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.3exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/bai1giaithua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/bai2inso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/bai2inso.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/bai3tong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/bai4inso.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4" beforeDir="false" afterPath="$PROJECT_DIR$/bai4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/.idea/workspace.xml" afterDir="false" />
@@ -86,7 +69,8 @@
       <workItem from="1657674592885" duration="25689000" />
       <workItem from="1657762023568" duration="18327000" />
       <workItem from="1657793658521" duration="13871000" />
-      <workItem from="1657862154128" duration="9148000" />
+      <workItem from="1657862154128" duration="9393000" />
+      <workItem from="1657940287553" duration="6267000" />
     </task>
     <servers />
   </component>
