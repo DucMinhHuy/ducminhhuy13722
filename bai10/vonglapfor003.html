@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  // let i;
+  // for(i=1;i<=10;i++){
+  //     let a=5*i+"<br>";
+  //     document.write("5*"+i+"=" +a);
+  // }
+
+  // let i;
+  // let j;
+  // for (i=0,j=10;i<=10,j>=0;i++,j--){
+  //     let s=i+j+"<br>";
+  //     document.write(i+"+"+j+"="+s);
+  // }
+
+let A;
+A="<table border='1' width='400' cellpadding'3'>"
+for (i=1;i<=10;i++){
+    A=A+"<tr>";
+    for(j=1;j<=10;j++){
+        A=A+"<td>"+i*j+"</td>";
+    }
+A=A+"</tr>";
+}
+A=A+"</table>";
+document.write(A);
+</script>
+
+</body>
+</html>

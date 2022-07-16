@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table border="1"></table>
+<script>
+    let check =true;
+    let N=+prompt("enter");
+    for(let i=2;i<N;i++){
+        if(N%i==0){
+            document.write(N+" k phai la so nguyen to");
+            check=false;
+            break;
+        }
+    }if (check==true){
+        document.write(N+" la so nguyen to");
+    }
+</script>
+</body>
+</html>

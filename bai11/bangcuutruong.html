@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+// let A="<table bordor='1'width='1200' cellpadding='3'>"
+//      for (let i=2;i<=9;i++) {
+//          A = A + "<tr>";
+//          for (let j = 1; i <= 9; J++) {
+//              A=A+"<td>"+i*j+"</td>";
+//          }
+//          A=A+"</tr>";
+//      }
+//      A=A+"</table>";
+//      document.write(A);
+let A;
+A="<table border='1' width='400' cellpadding'3'>"
+for (i=1;i<=10;i++){
+    A=A+"<tr>";
+    for(j=1;j<=10;j++){
+        A=A+"<td>"+j+"*"+i+"="+i*j+"</td>";
+    }
+    A=A+"</tr>";
+}
+A=A+"</table>";
+document.write(A);
+</script>
+</body>
+</html>

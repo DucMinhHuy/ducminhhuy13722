@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="zalo"></p>
+<script>
+    let sum=0;
+    let a =-1;
+    let b=1;
+    let total=0;
+    for(let i=0;i<20;i++){
+        total=a+b;
+        // document.write(total+"<br>");
+        a=b;
+        b=total;
+        sum=sum+total;
+        document.getElementById("zalo").innerHTML="tong 20 so"+sum;
+
+    }
+</script>
+</body>
+</html>
