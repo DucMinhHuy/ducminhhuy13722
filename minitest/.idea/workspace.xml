@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a95c476c-78f0-4333-aba3-3a26fc786fdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../minitest/huy.js" afterDir="false" />
+    <list default="true" id="8395b2f3-be54-4f89-8258-49ce6c695b42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai4" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,9 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2Bvjq6Pwe08BbLb93c1IYraW8g8" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C0pAzpyiCQVWCr4C67ajpN7fvJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,20 +28,21 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Documents/codegym/modude1/bai11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Documents/codegym/modude1/minitest&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a95c476c-78f0-4333-aba3-3a26fc786fdc" name="Changes" comment="" />
-      <created>1657793640900</created>
+      <changelist id="8395b2f3-be54-4f89-8258-49ce6c695b42" name="Changes" comment="" />
+      <created>1657949216398</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1657793640900</updated>
-      <workItem from="1657793642086" duration="3000" />
-      <workItem from="1657949196980" duration="7000" />
+      <updated>1657949216398</updated>
+      <workItem from="1657949217489" duration="38000" />
+      <workItem from="1657949257765" duration="23000" />
     </task>
     <servers />
   </component>

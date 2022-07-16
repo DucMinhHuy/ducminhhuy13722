@@ -7,12 +7,10 @@
     <list default="true" id="7bbc1b67-4f96-4be7-b618-bf084904a2cc" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/bai4/4.2exercise.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.3exercise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest/bai1giaithua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest/bai2inso.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest/bai2inso.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest/bai3tong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest/bai4inso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4" beforeDir="false" afterPath="$PROJECT_DIR$/bai4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/onmouseover.onmouseout.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/onmouseover.onmouseout.html" afterDir="false" />
@@ -31,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/minitest" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,6 +69,8 @@
       <workItem from="1657793658521" duration="13871000" />
       <workItem from="1657862154128" duration="9393000" />
       <workItem from="1657940287553" duration="6267000" />
+      <workItem from="1657948578632" duration="614000" />
+      <workItem from="1657951498794" duration="346000" />
     </task>
     <servers />
   </component>
