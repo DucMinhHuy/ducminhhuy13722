@@ -1,9 +1,9 @@
-let i=0;
-let count =0;
+let n=0;
+let i =0;
 let result="";
-while(count<15){
-    if (i%3==0){
-        result+=i+"<br>";
-        count++;
-    }i++;
+while(i<15){
+    if (n%3==0){
+        result+=n+"<br>";
+        i++;
+    }n++;
 }document.write(result);

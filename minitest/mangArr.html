@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="result"></p>
+</body>
+<script>
+    let array=[];
+    let dai=+prompt("nhap vao so luong mang");
+    for(let i=0;i<dai;i++){
+        let value=+prompt("nhap so phan tu");
+        array.push(value);
+    }
+    let inra=array;
+    document.getElementById("result").innerHTML="so phan tu cua may day"+inra;
+</script>
+</html>

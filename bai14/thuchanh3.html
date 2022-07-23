@@ -1,10 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+
+<script>
+  // function minArray(arr) {
+  //     let min1 = arr[0];
+  //     for(let i = 1; i < arr.length; i++){
+  //         if(arr[i] < min1){
+  //             min1 = arr[i];
+  //         }
+  //     }
+  //     return min1;
+  // }
+  // let arr1=[3,4,6,7,3,3,4,5,-3];
+  // let min=minArray(arr1);
+  // alert(min);
+
+
+  function minArray(arr) {
+      if(arr.length==0)
+          return -1;
+      let min1 = arr[0];
+      for(let i = 1; i < arr.length; i++){
+          if(arr[i] < min1){
+              min1 = arr[i];
+          }
+      }
+      return min1;
+  }
+  let arr1=[];
+  let min=minArray(arr1);
+  alert(min);
+</script>
 </body>
 </html>

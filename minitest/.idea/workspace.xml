@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8395b2f3-be54-4f89-8258-49ce6c695b42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai12/baigiangthuchanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai12/mang1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai12/mang2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai12/mang3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai12/mang4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai12/mang5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/faking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/ham.concat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/ham.indexof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/ham.map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/ham.push.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/ham.splice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/luyentap003.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/luyentap003.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/luyentap02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/luyentap03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/luyentap04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/luyentap04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/luyentap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/test.13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai13/test.13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/baidoc3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/baigiang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/baigiang2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/baigiang2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/testbaidoc3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/thuchanh1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/thuchanh2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/thuchanh2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai14/thuchanh3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai15/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai15/feet.meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai15/hamtest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc.table/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hoc.table/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai4insonguyen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chiahetcho3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ketquabieuthuc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mangArr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinhgiaithua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai4" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4" afterDir="false" />
@@ -10,6 +55,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,16 +75,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Documents/codegym/modude1/minitest&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/apple/Documents/codegym/modude1/minitest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,10 +101,24 @@
       <updated>1657949216398</updated>
       <workItem from="1657949217489" duration="38000" />
       <workItem from="1657949257765" duration="23000" />
+      <workItem from="1658132272512" duration="301000" />
+      <workItem from="1658457420403" duration="2613000" />
+      <workItem from="1658460704931" duration="11171000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

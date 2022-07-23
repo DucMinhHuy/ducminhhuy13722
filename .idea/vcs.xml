@@ -2,12 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bai12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bai13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bai14" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bai4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bai6" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bai7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bai8" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bien.kieudulieu" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git&amp;html" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hoc.table" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ifelse.switchcase" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js1" vcs="Git" />

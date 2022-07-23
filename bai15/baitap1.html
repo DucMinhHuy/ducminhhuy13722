@@ -1,10 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<p>kiem tra so nguyen</p>
+<!--<input type="number" id="test" oninput="soNguyen()">-->
+<script>
+    function soNguyen(){
+        n=+prompt("enter");
+        let check =true;
+        for(let i=2;i<n;i++){
+            if(n%i==0){
+                check=false;
+                document.write("k phai so nguyen to");
+                return n;
+            }else{
+                document.write("la so nguyen to");
+            }
+
+        }
+    }
+     soNguyen();
+
+</script>
 </body>
 </html>

@@ -5,15 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bbc1b67-4f96-4be7-b618-bf084904a2cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bai15/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai15/feet.meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai15/hamtest.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.2exercise.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.3exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidaythem/timgiatri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidaythem/timminmax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidaythem/tinhava.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidaythem/tinhtongarray.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc.table/fibonaci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc.table/hinhchunhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc.table/lap.ka.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc.table/tamgiac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/bai4insonguyen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/chiahetcho3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/ketquabieuthuc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/mangArr.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/minitest/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitest/tinhgiaithua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thutest/timminmax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thutest/timminmax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thutest/tinhtonh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thutest/tính tong.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai13/luyentap04.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai13/luyentap04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai13/luyentap201.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai13/luyentap201.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai14/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai14/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai14/thuchanh2.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai14/thuchanh2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai14/thuchanh2.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai14/thuchanh2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4" beforeDir="false" afterPath="$PROJECT_DIR$/bai4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/onmouseover.onmouseout.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/onmouseover.onmouseout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc.table/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hoc.table/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/minitest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,21 +66,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Documents/codegym/modude1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/apple/Documents/codegym/modude1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thutest" />
+      <recent name="$PROJECT_DIR$/minitest" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +103,12 @@
       <workItem from="1657862154128" duration="9393000" />
       <workItem from="1657940287553" duration="6267000" />
       <workItem from="1657948578632" duration="614000" />
-      <workItem from="1657951498794" duration="346000" />
+      <workItem from="1657951498794" duration="588000" />
+      <workItem from="1658106377883" duration="5000" />
+      <workItem from="1658106424135" duration="13029000" />
+      <workItem from="1658377254295" duration="9907000" />
+      <workItem from="1658564747161" duration="2184000" />
+      <workItem from="1658567001199" duration="1633000" />
     </task>
     <servers />
   </component>
