@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="result"></div>
+<script>
+  let array=[];
+  let doDai=+prompt("nhap do dai");
+  for(let i=0;i<doDai;i++){
+    let arr=+prompt("nhap thu tu");
+    array.push(arr);
+  }
+  let avg=0;
+  let sum=0;
+  for(let j=0;j<array.length;j++){
+    sum+=array[j];
+  }
+  avg=sum/array.length;
+  document.getElementById("result").innerHTML="ket qua la:"+avg;
+</script>
+</body>
+</html>

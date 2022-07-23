@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="result"></div>
+</body>
+<script>
+    // let array=[];
+    // let doDai=+prompt("nhap vao do dai");
+    // for(let i=0;i<doDai;i++){
+    //     let arr=+prompt("nhap vao thu tu");
+    //     array.push(arr);
+    // }
+    // let index=0;
+    // let min=array[0];
+    // for(let i=0;i<array.length;i++){
+    //     if(min>array[i]){
+    //         min=array[i];
+    //         index=i;
+    //     }
+    // }
+    // document.getElementById("result").innerHTML=min+"vi tri thu"+index;
+
+
+    let array=[];
+    let doDai=+prompt("nhap vao do dai");
+    for(let i=0;i<doDai;i++){
+        let arr=+prompt("nhap vao thu tu");
+        array.push(arr);
+    }
+    let index=0;
+    let max=array[0];
+    for(let i=0;i<array.length;i++){
+        if(max<array[i]){
+            max=array[i];
+            index=i;
+        }
+    }
+    document.getElementById("result").innerHTML=max+"vi tri thu"+index;
+</script>
+</html>
