@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bbc1b67-4f96-4be7-b618-bf084904a2cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bai15/baitap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai15/feet.meters.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai15/hamtest.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.2exercise.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.3exercise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baidaythem/timgiatri.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baidaythem/timminmax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baidaythem/tinhava.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baidaythem/tinhtongarray.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hoc.table/fibonaci.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hoc.table/hinhchunhat.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hoc.table/lap.ka.html" afterDir="false" />
@@ -24,13 +17,14 @@
       <change afterPath="$PROJECT_DIR$/minitest/mangArr.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/minitest/test.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/minitest/tinhgiaithua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thutest/timminmax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thutest/timminmax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thutest/tinhtonh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thutest/tính tong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai13/luyentap04.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai13/luyentap04.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai13/luyentap201.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai13/luyentap201.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai14/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai14/.idea/vcs.xml" afterDir="false" />
@@ -49,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -66,22 +60,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/apple/Documents/codegym/modude1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Documents/codegym/modude1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/thutest" />
@@ -109,6 +103,8 @@
       <workItem from="1658377254295" duration="9907000" />
       <workItem from="1658564747161" duration="2184000" />
       <workItem from="1658567001199" duration="1633000" />
+      <workItem from="1658569265979" duration="116000" />
+      <workItem from="1658572471495" duration="11763000" />
     </task>
     <servers />
   </component>
