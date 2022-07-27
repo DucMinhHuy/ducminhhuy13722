@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  // function Student(id,name,address){
+  //   this.huy=id;
+  //   this.ten=name;
+  //   this.diaChi=address;
+  //   this.getInfor =function (){
+  //       return "id="+this.huy+"name"+this.ten+"address"+this.diaChi;
+  //   }
+  // }
+  // let student= new Student(1,"duc minh huy","thai binh");
+  // console.log(student.getInfor());
+
+
+  let student={
+      id:1,
+      name:"duc minh huy",
+      address:"thai binh",
+      getInfor: function (){
+          return "id="+this.id+"name"+this.name+"address"+this.address;
+      }
+  }
+  console.log()
+  console.log(student.getInfor());
+</script>
+</body>
+</html>

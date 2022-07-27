@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  let myDate=function (day,month,year){
+      this.ngay=day;
+      this.thang=month;
+      this.nam=year;
+      this.getNgay=function (){
+          return this.ngay;
+      }
+      this.getThang=function (){
+          return this.thang;
+      }
+      this.getNam=function (){
+          return this.nam;
+      }
+      this.setNgay=function (day){
+          this.ngay=day;
+      }
+      this.setThang=function (month){
+          this.thang=month;
+      }
+      this.setNam=function (year){
+          this.nam=year;
+      }
+  };
+  let date= new myDate(2,2,2007);
+  date.getNgay();
+  date.setNgay(10);
+  date.setThang(10);
+  date.setNam(2019);
+  let ngay =date.getNgay();
+  let thang　=　date.getThang();
+  let nam　=　date.getNam();
+  alert(ngay+"/"+thang+"/"+nam)
+
+
+</script>
+</body>
+</html>

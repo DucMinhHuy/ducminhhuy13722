@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bbc1b67-4f96-4be7-b618-bf084904a2cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bai15/bai1songuyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai15/bai1songuyento.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16/.idea/thuchanhdienthoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16/baidoc1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16/baidoc2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16/baigiang2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16/lehongquanve.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16/thuchanhclassdate.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.2exercise.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4/4.3exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidaythem/ham.257.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hoc.table/fibonaci.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hoc.table/hinhchunhat.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hoc.table/lap.ka.html" afterDir="false" />
@@ -17,13 +26,6 @@
       <change afterPath="$PROJECT_DIR$/minitest/mangArr.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/minitest/test.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/minitest/tinhgiaithua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitestwwed3/bai4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai13/luyentap04.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai13/luyentap04.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai13/luyentap201.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai13/luyentap201.html" afterDir="false" />
@@ -33,6 +35,7 @@
       <change beforePath="$PROJECT_DIR$/bai4" beforeDir="false" afterPath="$PROJECT_DIR$/bai4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai4/onmouseover.onmouseout.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai4/onmouseover.onmouseout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidaythem/timminmax.html" beforeDir="false" afterPath="$PROJECT_DIR$/baidaythem/timminmax.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hoc.table/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hoc.table/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +108,10 @@
       <workItem from="1658567001199" duration="1633000" />
       <workItem from="1658569265979" duration="116000" />
       <workItem from="1658572471495" duration="11763000" />
+      <workItem from="1658632902261" duration="242000" />
+      <workItem from="1658718408587" duration="4824000" />
+      <workItem from="1658733131925" duration="1347000" />
+      <workItem from="1658737134714" duration="14531000" />
     </task>
     <servers />
   </component>
